@@ -1,9 +1,9 @@
 <h1 align="center">Olá!❄️</h1>
 <p align="center">
         <br>
-       - Meu nome é Gabriel 
-       - Atualmente estudo informática no CEFET-MG<br>
-       - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
+- Meu nome é Gabriel <br>
+- Atualmente estudo informática no CEFET-MG<br>
+- Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
     <br>
 </p>
 
