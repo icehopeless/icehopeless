@@ -7,8 +7,12 @@
     <br>
 </p>
 
-### Linguagens
-[![langs](https://skillicons.dev/icons?i=c,cpp,js,sql)](https://skillicons.dev)
+### Linguagens em aprendizagem
+[![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
+## Linguagens de principal atuação atualmente no curso
+[![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
+
+
 
 
 <!--
