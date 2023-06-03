@@ -11,7 +11,7 @@
 </p>
 
 ## Linguagens em aprendizagem
-[![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js)](https://skillicons.dev)
 ## Linguagens de principal uso atualmente no curso
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
 
