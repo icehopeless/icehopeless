@@ -4,6 +4,9 @@
 - Meu nome é Gabriel <br>
 - Atualmente curso informática no CEFET-MG<br>
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
+  <a href="gabrielagostinhodasilva@hotmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    </a>
     <br>
 </p>
 
