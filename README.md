@@ -7,15 +7,15 @@
     <br>
 </p>
 
-### Linguagens em aprendizagem
+## Linguagens em aprendizagem
 [![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
 ## Linguagens de principal uso atualmente no curso
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
 
-### IDEs
+## IDEs
 [![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
-### OS 
+## OS 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
