@@ -2,15 +2,24 @@
 <p align="center">
         <br>
 - Meu nome é Gabriel <br>
-- Atualmente estudo informática no CEFET-MG<br>
+- Atualmente curso informática no CEFET-MG<br>
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
     <br>
 </p>
+***
 
 ### Linguagens em aprendizagem
 [![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
 ## Linguagens de principal uso atualmente no curso
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
+
+### IDEs
+[![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+
+###OS 
+[![os] (https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
+
+
 
 
 
