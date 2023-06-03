@@ -1,5 +1,4 @@
 <h1 align="center">Olá!❄️</h1>
-***
 <p align="center">
         <br>
 - Meu nome é Gabriel <br>
@@ -7,7 +6,6 @@
 - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
     <br>
 </p>
-***
 
 ### Linguagens em aprendizagem
 [![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
