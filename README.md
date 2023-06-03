@@ -24,7 +24,7 @@
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Experiência Avançada em 
-[![langs](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 
 
 
