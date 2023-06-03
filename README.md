@@ -9,7 +9,7 @@
 
 ### Linguagens em aprendizagem
 [![langs](https://skillicons.dev/icons?i=c,cpp,js,mysql)](https://skillicons.dev)
-## Linguagens de principal atuação atualmente no curso
+## Linguagens de principal uso atualmente no curso
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
 
 
