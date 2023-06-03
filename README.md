@@ -1,4 +1,14 @@
-<h1 align="center">Hi there ❄️></h1>
+<h1 align="center">Olá!❄️</h1>
+<p align="center">
+        <br>
+       - Meu nome é Gabriel 
+       - Atualmente estudo informática no CEFET-MG<br>
+       - Estou aprendendo/aprendi tecnícas avançadas em algumas linguagens voltadas para o Back-End<br>
+    <br>
+</p>
+
+###Linguagens
+[![langs](https://skillicons.dev/icons?i=c,cpp,js,sql)](https://skillicons.dev)
 
 
 <!--
