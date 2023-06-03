@@ -7,7 +7,8 @@
     <br>
 </p>
 
-###Linguagens
+### Linguagens
+<br>
 [![langs](https://skillicons.dev/icons?i=c,cpp,js,sql)](https://skillicons.dev)
 
 
