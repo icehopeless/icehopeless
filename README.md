@@ -27,7 +27,7 @@
 
 ### Experiência Avançada em 
 [![langs](https://skillicons.dev/icons?i=ae)](https://skillicons.dev) 
-<br>Editei videos complexos de diversos temas, sendo preciso técnicas avançadas de manipulações das ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effeccts </a>
+<br>Experiença em edições de videos complexos de diversos temas, manuseando técnicas avançadas das ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effeccts.</a>
 
 
 
