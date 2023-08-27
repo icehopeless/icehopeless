@@ -10,7 +10,7 @@
     <br>
 </p>
 
-## Linguagens de aprendizagem
+## Linguagens em formação
 [![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js)](https://skillicons.dev)
 ## Linguagens de uso recorrente
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
