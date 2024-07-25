@@ -11,7 +11,7 @@
 </p>
 
 ## Linguagens em formação
-[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js,php,java)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js,php,java,python)](https://skillicons.dev)
 ## Linguagens de uso recorrente
 [![langs](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
 
@@ -21,13 +21,14 @@
 ## OS 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ios](https://skillicons.dev/icons?i=apple)
 <!--![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)--> 
 
 
 
 ### Experiência extra em 
 [![langs](https://skillicons.dev/icons?i=ae)](https://skillicons.dev) 
-<br>Experiença em edições de videos complexos de diversos temas, manuseando técnicas avançadas das ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effeccts.</a>
+<br>Experiença em edições de videos para redes sociais, manuseando técnicas e ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effeccts.</a>
 
 
 
