@@ -11,7 +11,7 @@
 </p>
 
 ## Linguagens em formação
-[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js,php,java)](https://skillicons.dev)
 ## Linguagens de uso recorrente
 [![langs](https://skillicons.dev/icons?i=cpp,mysql)](https://skillicons.dev)
 
