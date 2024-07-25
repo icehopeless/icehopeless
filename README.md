@@ -19,10 +19,14 @@
 [![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
 ## OS 
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br>
+![windows](https://skillicons.dev/icons?i=windows)
+![linux](https://skillicons.dev/icons?i=linux)
 ![ios](https://skillicons.dev/icons?i=apple) 
-![ios]([https://skillicons.dev/icons?i=apple](https://skillicons.dev/icons?i=kali)) 
+![kali](https://skillicons.dev/icons?i=kali) 
+![arch](https://skillicons.dev/icons?i=arch) 
+
+
 
 <!--![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)--> 
 
