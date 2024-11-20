@@ -11,9 +11,13 @@
 </p>
 
 ## Linguagens em aprendizado
-[![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js,php,java,python)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=c,cpp,js,php,java,python)](https://skillicons.dev)
 ## Linguagens de uso recorrente
 [![langs](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
+
+## Experiência com BDs SQL
+[![langs](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev)
+
 
 ## IDEs
 [![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
