@@ -3,14 +3,14 @@
         <br>
 - Meu nome é Gabriel <br>
 - Atualmente curso informática no CEFET-MG<br>
-- Estou aprendendo/aprendi técnicas avançadas em de programação voltadas ao Back End<br><br>
+- Estou aprendendo/aprendi técnicas avançadas de programação voltadas ao Back End<br><br>
   <a href="mailto:gabrielagostinhodasilva@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
     <br>
 </p>
 
-## Linguagens em formação
+## Linguagens em aprendizado
 [![langs](https://skillicons.dev/icons?i=c,cpp,mysql,js,php,java,python)](https://skillicons.dev)
 ## Linguagens de uso recorrente
 [![langs](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
@@ -18,7 +18,7 @@
 ## IDEs
 [![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
-## OS 
+## OS Mais Utilizados
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br>
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=linux)
