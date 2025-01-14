@@ -23,7 +23,6 @@
 [![ide](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
 ## OS Mais Utilizados
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br>
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=linux)
 ![ios](https://skillicons.dev/icons?i=apple) 
