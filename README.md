@@ -1,9 +1,9 @@
 <h1 align="center">Olá! ❄️</h1>
 <p align="center">
         <br>
-- Meu nome é Gabriel <br>
-- Cursei informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)<br>
-- Estou aprendendo/aprendi técnicas avançadas de programação voltadas ao Back End<br><br>
+ Meu nome é Gabriel <br>
+ Cursei informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)<br>
+ Estou aprendendo/aprendi técnicas avançadas de programação voltadas ao Back End<br><br>
   <a href="mailto:gabrielagostinhodasilva@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
