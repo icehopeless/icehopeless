@@ -10,10 +10,11 @@
     <br>
 </p>
 
-## Linguagens em aprendizado
-[![langs](https://skillicons.dev/icons?i=c,cpp,js,php,java,python)](https://skillicons.dev)
-## Linguagens de uso recorrente
-[![langs](https://skillicons.dev/icons?i=java,python,php)](https://skillicons.dev)
+## Linguagens de Domínio
+[![langs](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
+
+## Linguagens de aprendizado
+[![langs](https://skillicons.dev/icons?i=c,js,php)](https://skillicons.dev)
 
 ## Experiência com BDs SQL
 [![langs](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev)
@@ -25,9 +26,9 @@
 ## OS Mais Utilizados
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=linux)
-![ios](https://skillicons.dev/icons?i=apple) 
-![kali](https://skillicons.dev/icons?i=kali) 
 ![arch](https://skillicons.dev/icons?i=arch) 
+![kali](https://skillicons.dev/icons?i=kali) 
+
 
 
 
