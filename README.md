@@ -12,8 +12,8 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icehopeless&layout=compact&theme=dark&hide_border=true&hide=portugol) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehopeless&show_icons=true&theme=dark&hide_border=true&rank_icon=github&hide=issues&) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icehopeless&layout=compact&theme=transparent&hide_border=true&hide=portugol) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehopeless&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide=issues&) 
   
 </div>
 
