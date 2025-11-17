@@ -21,8 +21,8 @@
 ## Linguagens de Domínio
 [![langs](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
 
-## Linguagens de aprendizado
-[![langs](https://skillicons.dev/icons?i=c,js,php)](https://skillicons.dev)
+## Linguagens em aprendizado
+[![langs](https://skillicons.dev/icons?i=c,js,arduino)](https://skillicons.dev)
 
 ## Experiência com BDs SQL
 [![langs](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev)
@@ -33,8 +33,7 @@
 
 ## OS Mais Utilizados
 ![windows](https://skillicons.dev/icons?i=windows)
-![linux](https://skillicons.dev/icons?i=linux)
-![arch](https://skillicons.dev/icons?i=arch) 
+![linux](https://skillicons.dev/icons?i=mint)
 ![kali](https://skillicons.dev/icons?i=kali) 
 
 
