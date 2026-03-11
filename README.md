@@ -35,6 +35,7 @@
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=mint)
 ![kali](https://skillicons.dev/icons?i=kali) 
+![mac](https://skillicons.dev/icons?i=apple) 
 
 
 
