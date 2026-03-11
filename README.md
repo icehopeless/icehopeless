@@ -19,10 +19,10 @@
 </div>
 
 ## Linguagens de Domínio
-[![langs](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=java,c,cpp)](https://skillicons.dev)
 
 ## Linguagens em aprendizado
-[![langs](https://skillicons.dev/icons?i=c,js,arduino)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
 ## Experiência com BDs SQL
 [![langs](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev)
