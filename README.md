@@ -2,21 +2,22 @@
 <p align="center">
         <br>
  Meu nome é Gabriel <br>
- Cursei informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)<br>
- Atualmente estou cursando Ciências da Computação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
- Estou aprendendo/aprendi técnicas avançadas de programação voltadas ao Back End<br><br>
+ 🎓 Cursei informática no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)<br>
+ 📚 Atualmente estou cursando Ciências da Computação na Pontifícia Universidade Católica de Minas Gerais (PUC Minas)<br>
+ 🔐 Entusiasta em Cibersegurança e Segurança de Dados, com foco também em Desenvolvimento de Software.<br><br>
   <a href="mailto:gabrielagostinhodasilva@hotmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
     </a>
     <br>
 </p>
 
+
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icehopeless&layout=compact&theme=transparent&hide_border=true&hide=portugol) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icehopeless&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide=issues&) 
+        
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icehopeless&theme=transparent)
   
 </div>
+
 
 ## Linguagens de Domínio
 [![langs](https://skillicons.dev/icons?i=java,c,cpp)](https://skillicons.dev)
@@ -35,7 +36,7 @@
 ![windows](https://skillicons.dev/icons?i=windows)
 ![linux](https://skillicons.dev/icons?i=mint)
 ![kali](https://skillicons.dev/icons?i=kali) 
-![mac](https://skillicons.dev/icons?i=apple) 
+![debian](https://skillicons.dev/icons?i=debian) 
 
 
 
@@ -46,8 +47,12 @@
 
 ### Experiência extra em 
 [![langs](https://skillicons.dev/icons?i=ae)](https://skillicons.dev) 
-<br>Experiença em edições de videos para redes sociais, manuseando técnicas e ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effects.</a>
+<br>Experiença em edições de videos para redes sociais, manuseando técnicas e ferramentas presentes no <a href = "https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!adobe%20after%20effects!188195862!10039608942&gad=1&gclid=CjwKCAjwpuajBhBpEiwA_ZtfhZahXkpp8nfbJ5XYRSjlNYVwwZtD6I2vC1--By1U6bjOu7iiMAcK3xoCuBEQAvD_BwE">After Effects.</a><br><br>
 
+
+ ## Stats  
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icehopeless&theme=transparent) 
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icehopeless&theme=transparent)  
 
 
 
